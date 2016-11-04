@@ -1,0 +1,19 @@
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\bin\Debug\Wi-Host.exe
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\bin\Debug\Wi-Host.pdb
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\bin\Debug\Wi-Host.xml
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi_Host.Resources.resources
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi-Host.vbproj.GenerateResource.Cache
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi-Host.exe
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi-Host.xml
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi-Host.pdb
+C:\Users\Cédric\AppData\Local\Temporary Projects\Wi-Host\obj\Debug\Wi_Host.mainboard.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi-Host.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi-Host.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi-Host.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\bin\Debug\Wi-Host.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\bin\Debug\Wi-Host.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\bin\Debug\Wi-Host.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi_Host.mainboard.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi_Host.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi-Host.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\Wi-Host\Wi-Host\obj\Debug\Wi_Host.Adapter_Detail.resources
